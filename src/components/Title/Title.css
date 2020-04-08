@@ -1,0 +1,11 @@
+
+.Title{
+    color: #A50002; ;
+    font-family: "lato", serif;
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: rgb(121, 121, 121);
+    padding-top: 1%;
+    padding-left: 4%;
+    text-transform: uppercase;
+}

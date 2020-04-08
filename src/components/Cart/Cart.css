@@ -1,0 +1,13 @@
+.Container {
+    margin: 2rem 2rem 2rem 2rem;
+    background-color: #ffffff;
+    height: 100%;
+    padding-top: 5%;
+    padding-bottom: 15%;
+  }
+
+  @media only screen and (max-width:569px){
+    .Container{
+      margin: 5rem 0 0 0;
+    }
+  }
